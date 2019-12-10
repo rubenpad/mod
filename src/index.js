@@ -1,5 +1,5 @@
 /**
- *  Light library to create html tags and manipulate
+ *  Small library to create html tags and manipulate
  *  the DOM just using javascript.
  *  
  *  For practices purposes only.
